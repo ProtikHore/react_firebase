@@ -1,0 +1,2 @@
+1. npx create-react-app my-app  ----> install react
+2. npm install react-router-dom ----> install router

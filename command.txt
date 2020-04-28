@@ -1,3 +1,4 @@
 1. npx create-react-app my-app  ----> install react
 2. npm install react-router-dom ----> install router
 3. npm install redus react-redux ---> install redux
+4. npm install firebase         ----> install firebase
